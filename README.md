@@ -52,7 +52,7 @@ A proposta do projeto era desenvolver o "começo" de uma aplicação multi-stack
 ## Ferramentas utilizadas:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Node.js]](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/)
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
 - [DBeaver](https://dbeaver.io/download/)
 - [Insomnia](https://insomnia.rest/download)
