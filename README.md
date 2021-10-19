@@ -3,9 +3,9 @@
 <a href="https://github.com/shioheii">
   <img alt="Autor" src="https://img.shields.io/badge/autor-Bruno%20Shiohei%20Kinoshita%20do%20Nascimento-DB3833">
 </a>
-<a href="#">
+<!--<a href="#">
   <img alt="Stars" src="https://img.shields.io/github/stars/shioheii/ediaristas?color=DB3833">
-</a>
+</a>-->
 <a href="#">
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/shioheii/ediaristas?color=DB3833">
 </a>
