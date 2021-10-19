@@ -14,12 +14,6 @@ Abra [http://localhost:3000](http://localhost:3000) com o seu navegador para aco
 
 <img src="../images/tela-inicial.png" width="500" alt="Tela Inicial">
 
-Você pode começar a editar a página modificando `pages/index.tsx`. A página é atualizada automaticamente conforme você edita o arquivo.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) pode ser acessado em [http://localhost:3000/api/hello](http://localhost:3000/api/hello). Este 'endpoint pode ser editado em' `pages/api/hello.ts`.
-
-O diretório `pages/api` é mapeado para `/api/*`. Os arquivos neste diretório são tratados como [API routes](https://nextjs.org/docs/api-routes/introduction) em vez de páginas React.
-
 ## Alguns testes
 
 Podemos fazer alguns testes usando a API da TreinaWeb que está armazenada no [Heroku](https://www.heroku.com/) (basta olhar nas instruções do [Back-end]() para acessar a esta API). Observação: podes fazer esses testes no mobile também. </br>
