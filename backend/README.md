@@ -20,7 +20,7 @@ Ou pode acessar a API que está armazenada no [Heroku](https://www.heroku.com/),
 
 <img src="../images/backend2.png" width="500" alt="API no Heroku: https://ediaristas-workshop.herokuapp.com">
 
-Lembrando que `ApiService.ts` se localiza, tanto no front-end quanto mobile, em: \*/src/data/services/ApiService.ts
+Lembrando que `ApiService.ts` se localiza, tanto no front-end quanto mobile, em: `*/src/data/services/ApiService.ts`
 
 ## Aprenda mais
 
