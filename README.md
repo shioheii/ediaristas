@@ -14,7 +14,7 @@
 </a>
 <a href="#">
   <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/shioheii/ediaristas?color=DB3833">
-</a><br />
+</a> </br> </br>
 
 <p align="center">
   <img src="./images/logo.png" alt="Logo">
