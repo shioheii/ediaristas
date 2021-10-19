@@ -40,7 +40,7 @@ A proposta do projeto era desenvolver o "começo" de uma aplicação multi-stack
 - TypeScript
 - Python
 
-## Algumas libs e frameworks utilizadas:
+## Algumas libs e frameworks utilizados:
 
 - React
 - React Native
