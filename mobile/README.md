@@ -10,17 +10,13 @@ npm start
 
 Abrirá uma guia no seu navegador com o endereço: [http://localhost:19002/](http://localhost:19002/). </br>
 
-<p align="center">
-    <img src="../images/mobile1.png" alt="mobile1" >
-</p>
+<img src="../images/mobile1.png" width="500" alt="mobile1" >
 
-Baixe o aplicativo da [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US) no seu celular (para Android), ou abra a câmera (para IOS), e escaneie o QR Code. Isso abrirá o seu projeto no seu celular, para acompanhar o desenvolvimento.
+Baixe o aplicativo da [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US) no seu celular (para Android), ou abra a câmera (para IOS), e escaneie o QR Code. Isso abrirá o seu projeto no seu smartphone, para acompanhar o desenvolvimento.
 
 Ou se você preferir, pode abrir também no navegador, clicando em `Run in web browser`. Com isso, abrirá outra guia automaticamente, com o projeto mobile funcionando no endereço `http://localhost:19006/`. </br>
 
-<p align="center">
-    <img src="../images/mobile2.png" alt="mobile2" >
-</p>
+<img src="../images/mobile2.png" width="500" alt="mobile2" >
 
 ## Aprenda mais
 
