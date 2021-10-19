@@ -14,15 +14,11 @@ Nestas áreas, você pode cadastrar diaristas ou listá-las, respectivamente. </
 
 Na parte do front-end e mobile, você pode configurar para acessar a API que está no seu computador (essa parte do back-end), com o seguinte endereço no arquivo "ApiService.ts": `http://127.0.0.1:8000`.
 
-<p align="center">
-    <img src="../images/backend1.png" alt="API no PC: http://127.0.0.1:8000">
-</p>
+<img src="../images/backend1.png" width="500" alt="API no PC: http://127.0.0.1:8000">
 
 Ou pode acessar a API que está armazenada no [Heroku](https://www.heroku.com/), com o seguinte endereço: `https://ediaristas-workshop.herokuapp.com`.
 
-<p align="center">
-    <img src="../images/backend2.png" alt="API no Heroku: https://ediaristas-workshop.herokuapp.com">
-</p>
+<img src="../images/backend2.png" width="500" alt="API no Heroku: https://ediaristas-workshop.herokuapp.com">
 
 Lembrando que `ApiService.ts` se localiza, tanto no front-end quanto mobile, em: \*/src/data/services/ApiService.ts
 
