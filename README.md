@@ -57,11 +57,10 @@ A proposta do projeto era desenvolver o "começo" de uma aplicação multi-stack
 - [DBeaver](https://dbeaver.io/download/)
 - [Insomnia](https://insomnia.rest/download)
 
-<!--## Links para as seções do projeto
-- [Front-end]()
-- [Back-end]()
-- [Mobile]()
--->
+## Ir para...
+- [Front-end](https://github.com/shioheii/ediaristas/tree/main/frontend)
+- [Back-end](https://github.com/shioheii/ediaristas/tree/main/backend)
+- [Mobile](https://github.com/shioheii/ediaristas/tree/main/mobile)
 
 ---
 
