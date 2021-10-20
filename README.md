@@ -61,6 +61,7 @@ A proposta do projeto era desenvolver o "começo" de uma aplicação multi-stack
 - [Front-end](https://github.com/shioheii/ediaristas/tree/main/frontend)
 - [Back-end](https://github.com/shioheii/ediaristas/tree/main/backend)
 - [Mobile](https://github.com/shioheii/ediaristas/tree/main/mobile)
+- [Certificado](https://github.com/shioheii/Certificados/blob/main/Meus%20certificados/TreinaWeb/Multi-stack%202%C2%AA%20edi%C3%A7%C3%A3o%20-%20Workshop.pdf)
 
 ---
 
